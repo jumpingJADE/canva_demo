@@ -1,0 +1,23 @@
+<svg width="31" height="19" viewBox="0 0 31 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1_458)">
+<g clip-path="url(#clip0_1_458)">
+<rect x="1.32996" y="1.75" width="27.7" height="16" rx="8" fill="#11171D" fill-opacity="0.6" shape-rendering="crispEdges"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13.4692 5.0774L19.7116 9.0214C19.8393 9.09543 19.9453 9.20173 20.019 9.32964C20.0927 9.45754 20.1315 9.60257 20.1315 9.7502C20.1315 9.89782 20.0927 10.0428 20.019 10.1708C19.9453 10.2987 19.8393 10.405 19.7116 10.479L13.4692 14.423C13.2708 14.5423 13.0337 14.5799 12.8081 14.5276C12.5825 14.4754 12.3861 14.3374 12.2604 14.143C12.1753 14.0088 12.1301 13.8531 12.13 13.6942V5.8046C12.13 5.3342 12.5236 4.9502 13.0084 4.9502C13.1708 4.9502 13.3308 4.9942 13.4692 5.0774Z" fill="white"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_1_458" x="0.329956" y="0.75" width="29.7" height="18" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="1" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_1_458"/>
+<feOffset/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.25098 0 0 0 0 0.341176 0 0 0 0 0.427451 0 0 0 0.07 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_458"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_458" result="shape"/>
+</filter>
+<clipPath id="clip0_1_458">
+<rect x="1.32996" y="1.75" width="27.7" height="16" rx="8" fill="white"/>
+</clipPath>
+</defs>
+</svg>
